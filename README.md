@@ -31,8 +31,7 @@ Outside of work, I build things at [TornadoByte](https://tornadobyte.com) — fi
 
 **Frontend**
 ```
-Angular · TypeScript · RxJS · NgRx · React · Next.js
-PrimeNG · Angular Material · TailwindCSS
+Angular · TypeScript · RxJS · NgRx · React · Next.js · PrimeNG · Angular Material · TailwindCSS
 ```
 
 **Backend**
